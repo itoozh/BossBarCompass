@@ -1,0 +1,6 @@
+---
+name: BossBarCompass
+version: 0.0.1
+main: Compass\Main
+api: 4.0.0
+...
